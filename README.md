@@ -1,5 +1,5 @@
 # ASD_2021
-exercises done for **ASD** course semester 2, year I, Somputer Science, UST
+exercises done for **ASD** course semester 2, year I, Computer Science, UST
 
 # Description
 Since the course was conducted in polish all the folders & files are named in polish, as well as all the comments to the code are in that language. 
