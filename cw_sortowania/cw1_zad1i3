@@ -1,0 +1,17 @@
+1 to sortowania, ktore mam juz wpisane, a 3 to opisówka która tu zrobie i ktora umiem z wdi
+
+zad3.
+1.
+ - w najlepszym przypadku :
+insertion sort - ma złożonosc O(n), a pozostałem O(n^2).
+- w najgorszym wypadku wszystkie mają złożoność O(n^2), a najszybsze jest mimo wszystko selection sort
+
+2.
+* insertion sort można poprawić przez wyszukiwanie binarne (połówkowe), ale zmniejsza to tylko ilosc porownan a nie przestawien więc nie jest "game changerem"
+
+w warunkach typowych wszystkie wykonują w przybliżeniu n^2 porownan i przestawien, za wyjatkiem przestawiania w selection sorcie gdzie mamy nlogn zamian
+
+3.
+* metoda stabilna to taka która zachowuje wyjsciowe połozenie elementów o tych samych wartosciach (kluczach) wzgledem siebie
+stabilna jest metoda insertion sort i bubble sort
+
