@@ -15,7 +15,7 @@ Comments were left since they provide usefull knowledge of what a particular alg
 # Disclaimer
 As I upload this repository nearly a year later, some exercises may lack description, some may be missing and so on.
 **MOST IMPORTANTLY - some exercises may be implemented incorrectly or ineffectively.**
-**I highly recommend using these implementations as clues and source of ideas than perfect solutions.**
+**I highly recommend using these implementations as clues and source of ideas rather than perfect solutions.**
 
 If I was able to help you in any way, be kind enough to leave a star and share it with your colleagues.  
   
