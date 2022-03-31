@@ -13,8 +13,8 @@ Comments were left since they provide usefull knowledge of what a particular alg
  **kol & kolosy** - kolokwia - tests - exercises done as test. The ones marked with **kk** inside kolosy_ASD are the special kind, created by my colleague **@lpawlak1** and others during our preparation for the exam and many of the tasks are devised by them.  
  
 # Disclaimer
-As I upload this repository nearly a year later, some exercises may lack description, some may be missing and so on.
-**MOST IMPORTANTLY - some exercises may be implemented incorrectly or ineffectively.**
+As I upload this repository nearly a year later, some exercises may lack description, some may be missing and so on.  
+**MOST IMPORTANTLY - some exercises may be implemented incorrectly or ineffectively.**  
 **I highly recommend using these implementations as clues and source of ideas rather than perfect solutions.**
 
 If I was able to help you in any way, be kind enough to leave a star and share it with your colleagues.  
